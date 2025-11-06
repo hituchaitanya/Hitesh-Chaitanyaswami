@@ -1,0 +1,11 @@
+torch>=1.13
+torchvision
+numpy
+opencv-python
+Pillow
+pyyaml
+tqdm
+pandas
+scikit-learn
+editdistance
+python-Levenshtein
