@@ -4,3 +4,6 @@ This reference implementation reproduces the multi-stage pipeline described in t
 
 ## Quick start
 1. Install requirements:
+2. Generate synthetic data:
+3. Train classifier on synthetic data:
+4. Run demo pipeline:
