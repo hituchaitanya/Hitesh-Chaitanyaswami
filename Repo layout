@@ -1,0 +1,20 @@
+cheque-ocr/
+├─ README.md
+├─ requirements.txt
+├─ config.yaml
+├─ data/                 # add your CID / FRSD / CFC datasets here if available
+├─ src/
+│  ├─ __init__.py
+│  ├─ preprocessing.py
+│  ├─ ssmhed.py
+│  ├─ phls.py
+│  ├─ inpainting.py
+│  ├─ dataset.py
+│  ├─ models.py
+│  ├─ train.py
+│  ├─ evaluate.py
+│  └─ inference.py
+├─ synthetic/
+│  └─ synth_generator.py
+└─ utils/
+   └─ metrics.py
