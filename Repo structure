@@ -1,0 +1,20 @@
+cheque-ocr/
+├─ README.md
+├─ requirements.txt
+├─ config.yaml
+├─ dataset/
+│  ├─ synthetic_generator.py
+├─ src/
+│  ├─ preprocessing.py
+│  ├─ segmentation.py
+│  ├─ refinement.py
+│  ├─ recognition.py
+│  ├─ dataset.py
+│  ├─ model_zoo.py
+│  ├─ train.py
+│  ├─ evaluate.py
+│  └─ inference.py
+├─ weights/        # (place trained weights here)
+└─ utils/
+   ├─ metrics.py
+   └─ visualize.py
