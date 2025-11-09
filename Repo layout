@@ -2,7 +2,7 @@ cheque-ocr/
 ├─ README.md
 ├─ requirements.txt
 ├─ config.yaml
-├─ data/                 # add your CID / FRSD / CFC datasets here if available
+├─ data/              
 ├─ src/
 │  ├─ __init__.py
 │  ├─ preprocessing.py
